@@ -1,0 +1,28 @@
+.container {
+  background-color: #673AB7;
+  width: 40vw;
+  margin: auto;
+  padding: 0 20px 5px 20px;
+  border-radius: 10px;
+  overflow-wrap: break-word;
+}
+.resource-detail {
+  color: #212121;
+}
+.resource-detail span {
+  color: black;
+}
+.some-space {
+  padding: 1vh;
+}
+.container h4 {
+  padding-top: 15px;
+  margin: 0;
+}
+.resources div a, .resource-content a{
+  color: black;
+  text-decoration: none;
+}
+.container a {
+  color: black;
+}
